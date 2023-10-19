@@ -224,7 +224,7 @@
 
 .company_web_info{
   display: flex;
-  gap: 4em;
+  gap: 2.5em;
   padding-bottom: var(--padding300);
 }
 
