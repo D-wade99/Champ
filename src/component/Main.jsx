@@ -1,5 +1,5 @@
 import walmart from '../assets/Logos/Walmart.svg'
-import jpMorgan from '../assets/Logos/jp Morgan.svg'
+import jpMorgan from '../assets/Logos/jpMorgan.svg'
 import visa from '../assets/Logos/Visa.svg'
 import tinder from '../assets/Logos/Tinder.svg'
 import samsung from '../assets/Logos/Samsung.svg'
