@@ -6,9 +6,9 @@ import samsung from '../assets/Logos/Samsung.svg'
 import verizon from '../assets/Logos/Verizon.svg'
 import Spense from '../assets/Spense.png'
 import YelpCamp from '../assets/YelpCamp.png'
-import github from '../assets/Social Icons/Github.svg'
-import linkedin from '../assets/Social Icons/Linkedin.svg'
-import twitter from '../assets/Social Icons/Twitter.svg'
+import github from '../assets/Social_Icons/Github.svg'
+import linkedin from '../assets/Social_Icons/Linkedin.svg'
+import twitter from '../assets/Social_Icons/Twitter.svg'
 
 
 function Main() {
