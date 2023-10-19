@@ -10,6 +10,7 @@ import github from '../assets/Social Icons/Github.svg'
 import linkedin from '../assets/Social Icons/Linkedin.svg'
 import twitter from '../assets/Social Icons/Twitter.svg'
 
+
 function Main() {
   return (
     <>
